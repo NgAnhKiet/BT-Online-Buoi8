@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BT_CodyGym_GU1-W08/1.0.0": {
+        "runtime": {
+          "BT_CodyGym_GU1-W08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT_CodyGym_GU1-W08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
